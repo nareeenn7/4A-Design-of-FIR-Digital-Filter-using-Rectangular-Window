@@ -53,6 +53,12 @@ xlabel('Normalized Digital Frequency W');
 ylabel('Magnitude in dB');
 title('Frequency Response of FIR LPF using Rectangular Window');
 ```
+# CALCULATION :
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/8532d19e-d8ab-45e8-a76c-c20611fcde49" />
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/d7472636-fea7-4e1b-8ab4-181feacd6b15" />
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/85786c9c-7819-421b-b292-a72c0559a901" />
+
+
 
 
 # OUTPUT: 
